@@ -26,6 +26,12 @@ body{
     justify-content: center;
 }
 
+#kemampuan{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
 #kemampuan li{
     list-style-type: disc;
 }
