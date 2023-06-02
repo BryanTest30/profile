@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+.white{
+    background-color: white;
+    padding: 2% 10%;
+}
+
+.blue{
+    background-color: #82aeff;
+    padding: 2% 10%;
+}
+
+#profile{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+
+
+#pendidikan{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#kemampuan li{
+    list-style-type: disc;
+}
+
+#koding{
+    padding: 2% 10%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-align: left;
+}
+
